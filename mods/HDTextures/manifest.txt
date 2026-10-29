@@ -1,0 +1,4 @@
+DisplayName.E text="HD Textures"
+Author text="TerranovaTeam (AltTextures), bayerchemistry (colobot-hd-raster), Real-ESRGAN"
+Version major=1 minor=0 patch=0
+Summary.E text="High resolution textures: hand-made HD versions where they exist, AI upscaled (Real-ESRGAN x4) for the rest."
